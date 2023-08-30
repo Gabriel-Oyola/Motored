@@ -1,11 +1,6 @@
-﻿.body {
-    background-color:black;
-    Background:red;
-    color: black;
-}
-
-.titulo{
-    color:red;
+﻿
+.titulo {
+    color: red;
 }
 
 .Contenedor {
@@ -20,15 +15,12 @@
     display: flex;
     flex-direction: column;
     Margin: 0px 9px -13px 223px;
-    
 }
 
 .Fila2 {
     display: flex;
     flex-direction: column;
     margin: 0px 0px 1px 81px;
-    
-        
 }
 
 input {
@@ -42,13 +34,7 @@ a {
 }
 
 button {
-    border-color:red;
-    Background:red;
-    color:white
-    
-        
-}
-
-.asd{
-
+    border-color: red;
+    Background: red;
+    color: white
 }
