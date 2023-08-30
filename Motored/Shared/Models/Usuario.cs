@@ -22,7 +22,10 @@ namespace Motored.Shared.Models
 
         public string Pais { get; set;  } 
 
-        public string Provincia { get; set;}
+        public string Provincia { get; set;} 
+
+
+
 
     }
 }
