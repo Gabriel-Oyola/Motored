@@ -28,7 +28,7 @@ namespace Motored.Shared.Models
 
         public DateTime Horarios { get; set;}
 
-        public string Link { get; set; }
+        public string link { get; set; }
 
 
         //Analizar si agregar atributo reseñas 
