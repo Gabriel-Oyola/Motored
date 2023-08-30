@@ -22,7 +22,6 @@
 
   <ItemGroup>
     <Folder Include="Estilos\" />
-    <Folder Include="Fotos y videos\Fotos\" />
   </ItemGroup>
 
 </Project>
